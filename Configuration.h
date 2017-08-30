@@ -1,4 +1,9 @@
 /**
+ * Este archivo fue modificado para dejar los ajustes de las impresoras de Qbico3D 
+ * Alex Vargas Benamburg
+ */
+
+/**
  * Marlin 3D Printer Firmware
  * Copyright (C) 2016 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
